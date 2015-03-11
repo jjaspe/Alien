@@ -1,0 +1,8 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\bin\Debug\AlienCurrencies.exe.config
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\bin\Debug\AlienCurrencies.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\bin\Debug\AlienCurrencies.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\obj\Debug\AlienCurrencies.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\obj\Debug\AlienCurrencies.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\obj\Debug\AlienCurrencies.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\bin\Debug\AlienCurrenciesSolver.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\AlienCurrencies\AlienCurrencies\bin\Debug\AlienCurrenciesSolver.pdb
